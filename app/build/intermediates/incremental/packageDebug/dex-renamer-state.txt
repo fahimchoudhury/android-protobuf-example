@@ -1,0 +1,7 @@
+#Tue Feb 14 14:46:10 BDT 2017
+base.0=C\:\\Users\\user\\AndroidStudioProjects\\protobuf-demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2e3b4f3a114a96e01824ca06e57b0a79a0a1249e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\user\\AndroidStudioProjects\\protobuf-demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ebb5d5e7e22aa5be84edbd0ee9aa915f4c99f450\\classes.dex
+base.1=C\:\\Users\\user\\AndroidStudioProjects\\protobuf-demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ebb5d5e7e22aa5be84edbd0ee9aa915f4c99f450
+file.0=C\:\\Users\\user\\AndroidStudioProjects\\protobuf-demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2e3b4f3a114a96e01824ca06e57b0a79a0a1249e\\classes.dex

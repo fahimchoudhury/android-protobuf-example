@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\protobuf-demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\phone_number.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\protobuf-demo\\app\\src\\main\\res\\layout\\phone_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\protobuf-demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\person.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\protobuf-demo\\app\\src\\main\\res\\layout\\person.xml"
+    }
+]
